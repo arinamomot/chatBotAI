@@ -2,6 +2,8 @@
 
 This guide explains how to set up and implement a chatbot using OpenAI's API with additional tools for creating an interactive interface and handling embeddings.
 
+<img width="1501" alt="Screenshot 2024-12-12 at 15 59 50" src="https://github.com/user-attachments/assets/4f3692f5-9371-458c-8e60-48f8a43e241e" />
+
 ---
 
 ## Prerequisites
