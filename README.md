@@ -72,9 +72,11 @@ pip install python-dotenv tiktoken streamlit pypdf2 langchain faiss-cpu
 
 Here are some sample questions you can ask the chatbot:
 
+You can use the [U.S. Constitution PDF](https://constitutioncenter.org/media/files/constitution.pdf) as a knowledge base for queries.
+
 - **General Queries:**
-  - "Who can be the president of India?"
-  - "Can you summarize the process of election of the president of India?"
+  - "Who can be the president of USA?"
+  - "Can you summarize the process of election of the president of USA?"
 
 - **Custom Queries:**
   - Adjust questions based on the embeddings or content processed by your chatbot.
